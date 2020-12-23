@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 70 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:iron_ore",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 71 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:coal_ore",Properties:{}},Time:1}

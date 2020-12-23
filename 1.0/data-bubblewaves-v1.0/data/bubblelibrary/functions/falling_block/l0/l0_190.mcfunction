@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 7601 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:prismarine",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 7602 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:prismarine_bricks",Properties:{}},Time:1}

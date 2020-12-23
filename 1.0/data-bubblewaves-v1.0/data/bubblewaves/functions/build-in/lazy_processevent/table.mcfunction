@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:oak_trapdoor[half=top, open=false]

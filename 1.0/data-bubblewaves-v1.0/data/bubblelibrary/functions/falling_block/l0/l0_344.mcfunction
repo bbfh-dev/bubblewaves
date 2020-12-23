@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 14971 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:warped_fungus",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 14972 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:warped_wart_block",Properties:{}},Time:1}

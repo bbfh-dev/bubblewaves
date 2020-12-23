@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 9510 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:dead_tube_coral_block",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 9511 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:dead_brain_coral_block",Properties:{}},Time:1}

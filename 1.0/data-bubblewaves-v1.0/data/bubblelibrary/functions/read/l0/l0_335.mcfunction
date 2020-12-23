@@ -1,0 +1,9 @@
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=north,lit=true] run scoreboard players set block bubblelibrary 14811
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=north,lit=false] run scoreboard players set block bubblelibrary 14812
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=south,lit=true] run scoreboard players set block bubblelibrary 14813
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=south,lit=false] run scoreboard players set block bubblelibrary 14814
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=west,lit=true] run scoreboard players set block bubblelibrary 14815
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=west,lit=false] run scoreboard players set block bubblelibrary 14816
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=east,lit=true] run scoreboard players set block bubblelibrary 14817
+execute if block ~ ~ ~ minecraft:blast_furnace[facing=east,lit=false] run scoreboard players set block bubblelibrary 14818
+execute if block ~ ~ ~ minecraft:cartography_table[] run scoreboard players set block bubblelibrary 14819

@@ -1,0 +1,6 @@
+execute if score block bubblelibrary matches 82 run setblock ~ ~ ~ minecraft:jungle_log[axis=x]
+execute if score block bubblelibrary matches 83 run setblock ~ ~ ~ minecraft:jungle_log[axis=y]
+execute if score block bubblelibrary matches 84 run setblock ~ ~ ~ minecraft:jungle_log[axis=z]
+execute if score block bubblelibrary matches 85 run setblock ~ ~ ~ minecraft:acacia_log[axis=x]
+execute if score block bubblelibrary matches 86 run setblock ~ ~ ~ minecraft:acacia_log[axis=y]
+execute if score block bubblelibrary matches 87 run setblock ~ ~ ~ minecraft:acacia_log[axis=z]

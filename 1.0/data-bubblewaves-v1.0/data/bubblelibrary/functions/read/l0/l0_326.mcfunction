@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 10855
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 10856
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 10857
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 10858
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 10859
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 10860
+execute if block ~ ~ ~ minecraft:diorite_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 10861
+execute if block ~ ~ ~ minecraft:diorite_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 10862
+execute if block ~ ~ ~ minecraft:diorite_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 10863
+execute if block ~ ~ ~ minecraft:diorite_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 10864
+execute if block ~ ~ ~ minecraft:diorite_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 10865
+execute if block ~ ~ ~ minecraft:diorite_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 10866

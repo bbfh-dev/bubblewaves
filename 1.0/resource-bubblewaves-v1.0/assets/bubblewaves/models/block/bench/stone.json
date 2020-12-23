@@ -1,0 +1,7 @@
+{
+	"parent": "bubblewaves:block/bench/parent",
+	"textures": {
+		"base": "block/stone",
+		"part": "block/stone_bricks"
+	}
+}

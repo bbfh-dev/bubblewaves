@@ -1,0 +1,2 @@
+replaceitem entity @s armor.head minecraft:carrot_on_a_stick{CustomModelData:1050, display:{Name:'{"translate":"bubblewaves.hat_of_invisibility", "italic":false}', Lore:['{"translate":"bubblewaves.armor", "color":"light_purple", "italic":false}', '{"keybind":"key.use", "color":"gold", "italic":false}']}}
+replaceitem entity @s weapon.mainhand air

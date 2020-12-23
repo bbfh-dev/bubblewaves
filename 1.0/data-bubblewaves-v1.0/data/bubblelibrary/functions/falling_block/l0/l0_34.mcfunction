@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 232 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:lapis_ore",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 233 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:lapis_block",Properties:{}},Time:1}

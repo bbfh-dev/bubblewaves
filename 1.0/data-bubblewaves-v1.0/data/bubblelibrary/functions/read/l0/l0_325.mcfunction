@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:andesite_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 10843
+execute if block ~ ~ ~ minecraft:andesite_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 10844
+execute if block ~ ~ ~ minecraft:andesite_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 10845
+execute if block ~ ~ ~ minecraft:andesite_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 10846
+execute if block ~ ~ ~ minecraft:andesite_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 10847
+execute if block ~ ~ ~ minecraft:andesite_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 10848
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 10849
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 10850
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 10851
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 10852
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 10853
+execute if block ~ ~ ~ minecraft:red_nether_brick_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 10854

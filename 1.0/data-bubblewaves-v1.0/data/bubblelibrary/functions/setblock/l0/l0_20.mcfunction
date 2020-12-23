@@ -1,0 +1,6 @@
+execute if score block bubblelibrary matches 88 run setblock ~ ~ ~ minecraft:dark_oak_log[axis=x]
+execute if score block bubblelibrary matches 89 run setblock ~ ~ ~ minecraft:dark_oak_log[axis=y]
+execute if score block bubblelibrary matches 90 run setblock ~ ~ ~ minecraft:dark_oak_log[axis=z]
+execute if score block bubblelibrary matches 91 run setblock ~ ~ ~ minecraft:stripped_spruce_log[axis=x]
+execute if score block bubblelibrary matches 92 run setblock ~ ~ ~ minecraft:stripped_spruce_log[axis=y]
+execute if score block bubblelibrary matches 93 run setblock ~ ~ ~ minecraft:stripped_spruce_log[axis=z]

@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:oak_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 8300
+execute if block ~ ~ ~ minecraft:oak_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 8301
+execute if block ~ ~ ~ minecraft:oak_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 8302
+execute if block ~ ~ ~ minecraft:oak_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 8303
+execute if block ~ ~ ~ minecraft:oak_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 8304
+execute if block ~ ~ ~ minecraft:oak_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 8305
+execute if block ~ ~ ~ minecraft:spruce_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 8306
+execute if block ~ ~ ~ minecraft:spruce_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 8307
+execute if block ~ ~ ~ minecraft:spruce_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 8308
+execute if block ~ ~ ~ minecraft:spruce_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 8309
+execute if block ~ ~ ~ minecraft:spruce_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 8310
+execute if block ~ ~ ~ minecraft:spruce_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 8311

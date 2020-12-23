@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:carrots[age=0] run scoreboard players set block bubblelibrary 6330
+execute if block ~ ~ ~ minecraft:carrots[age=1] run scoreboard players set block bubblelibrary 6331
+execute if block ~ ~ ~ minecraft:carrots[age=2] run scoreboard players set block bubblelibrary 6332
+execute if block ~ ~ ~ minecraft:carrots[age=3] run scoreboard players set block bubblelibrary 6333
+execute if block ~ ~ ~ minecraft:carrots[age=4] run scoreboard players set block bubblelibrary 6334
+execute if block ~ ~ ~ minecraft:carrots[age=5] run scoreboard players set block bubblelibrary 6335
+execute if block ~ ~ ~ minecraft:carrots[age=6] run scoreboard players set block bubblelibrary 6336
+execute if block ~ ~ ~ minecraft:carrots[age=7] run scoreboard players set block bubblelibrary 6337
+execute if block ~ ~ ~ minecraft:potatoes[age=0] run scoreboard players set block bubblelibrary 6338
+execute if block ~ ~ ~ minecraft:potatoes[age=1] run scoreboard players set block bubblelibrary 6339
+execute if block ~ ~ ~ minecraft:potatoes[age=2] run scoreboard players set block bubblelibrary 6340
+execute if block ~ ~ ~ minecraft:potatoes[age=3] run scoreboard players set block bubblelibrary 6341
+execute if block ~ ~ ~ minecraft:potatoes[age=4] run scoreboard players set block bubblelibrary 6342
+execute if block ~ ~ ~ minecraft:potatoes[age=5] run scoreboard players set block bubblelibrary 6343
+execute if block ~ ~ ~ minecraft:potatoes[age=6] run scoreboard players set block bubblelibrary 6344
+execute if block ~ ~ ~ minecraft:potatoes[age=7] run scoreboard players set block bubblelibrary 6345

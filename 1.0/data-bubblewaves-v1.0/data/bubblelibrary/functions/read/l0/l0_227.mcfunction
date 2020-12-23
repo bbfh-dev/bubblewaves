@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:birch_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 8312
+execute if block ~ ~ ~ minecraft:birch_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 8313
+execute if block ~ ~ ~ minecraft:birch_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 8314
+execute if block ~ ~ ~ minecraft:birch_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 8315
+execute if block ~ ~ ~ minecraft:birch_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 8316
+execute if block ~ ~ ~ minecraft:birch_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 8317
+execute if block ~ ~ ~ minecraft:jungle_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 8318
+execute if block ~ ~ ~ minecraft:jungle_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 8319
+execute if block ~ ~ ~ minecraft:jungle_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 8320
+execute if block ~ ~ ~ minecraft:jungle_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 8321
+execute if block ~ ~ ~ minecraft:jungle_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 8322
+execute if block ~ ~ ~ minecraft:jungle_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 8323

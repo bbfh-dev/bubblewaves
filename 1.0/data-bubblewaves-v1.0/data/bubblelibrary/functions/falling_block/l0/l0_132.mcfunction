@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 5154 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:end_stone",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 5155 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:dragon_egg",Properties:{}},Time:1}

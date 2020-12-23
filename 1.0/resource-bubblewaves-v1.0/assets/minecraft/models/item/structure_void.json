@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/structure_void"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model":"bubblewaves:gui/previous"},
+        {"predicate": {"custom_model_data":2}, "model":"bubblewaves:gui/empty"},
+        {"predicate": {"custom_model_data":3}, "model":"bubblewaves:gui/next"},
+        {"predicate": {"custom_model_data":1010}, "model":"bubblewaves:block/security_camera"},
+        {"predicate": {"custom_model_data":1020}, "model":"bubblewaves:item/camera_monitor"},
+        {"predicate": {"custom_model_data":1030}, "model":"bubblewaves:block/pincode_lock_closed"},
+        {"predicate": {"custom_model_data":1040}, "model":"bubblewaves:block/ghost_block"},
+        {"predicate": {"custom_model_data":1050}, "model":"bubblewaves:item/hat_of_invisibility"},
+        {"predicate": {"custom_model_data":1060}, "model":"bubblewaves:block/bench/wooden"},
+        {"predicate": {"custom_model_data":1061}, "model":"bubblewaves:block/bench/stone"},
+        {"predicate": {"custom_model_data":1070}, "model":"bubblewaves:block/table/oak"},
+        {"predicate": {"custom_model_data":1071}, "model":"bubblewaves:block/table/birch"},
+        {"predicate": {"custom_model_data":1072}, "model":"bubblewaves:block/table/spruce"},
+        {"predicate": {"custom_model_data":1073}, "model":"bubblewaves:block/table/dark_oak"},
+        {"predicate": {"custom_model_data":1074}, "model":"bubblewaves:block/table/jungle"},
+        {"predicate": {"custom_model_data":1075}, "model":"bubblewaves:block/table/acacia"},
+        {"predicate": {"custom_model_data":1076}, "model":"bubblewaves:block/table/crimson"},
+        {"predicate": {"custom_model_data":1077}, "model":"bubblewaves:block/table/warped"},
+        {"predicate": {"custom_model_data":1080}, "model":"bubblewaves:block/nightstand/oak"},
+        {"predicate": {"custom_model_data":1081}, "model":"bubblewaves:block/nightstand/birch"},
+        {"predicate": {"custom_model_data":1082}, "model":"bubblewaves:block/nightstand/spruce"},
+        {"predicate": {"custom_model_data":1083}, "model":"bubblewaves:block/nightstand/dark_oak"},
+        {"predicate": {"custom_model_data":1084}, "model":"bubblewaves:block/nightstand/jungle"},
+        {"predicate": {"custom_model_data":1085}, "model":"bubblewaves:block/nightstand/acacia"},
+        {"predicate": {"custom_model_data":1086}, "model":"bubblewaves:block/nightstand/crimson"},
+        {"predicate": {"custom_model_data":1087}, "model":"bubblewaves:block/nightstand/warped"},
+        {"predicate": {"custom_model_data":1090}, "model":"bubblewaves:block/washer/empty"},
+        {"predicate": {"custom_model_data":1091}, "model":"bubblewaves:block/washer/filled"},
+        {"predicate": {"custom_model_data":1100}, "model":"bubblewaves:block/toilet"},
+        {"predicate": {"custom_model_data":1101}, "model":"bubblewaves:block/sink/off"},
+        {"predicate": {"custom_model_data":1102}, "model":"bubblewaves:block/sink/on"},
+        {"predicate": {"custom_model_data":1110}, "model":"bubblewaves:block/fridge/close"},
+        {"predicate": {"custom_model_data":1111}, "model":"bubblewaves:block/fridge/open"}
+    ]
+}

@@ -1,0 +1,5 @@
+execute if score block bubblelibrary matches 9249 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:frosted_ice",Properties:{age:0}},Time:1}
+execute if score block bubblelibrary matches 9250 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:frosted_ice",Properties:{age:1}},Time:1}
+execute if score block bubblelibrary matches 9251 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:frosted_ice",Properties:{age:2}},Time:1}
+execute if score block bubblelibrary matches 9252 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:frosted_ice",Properties:{age:3}},Time:1}
+execute if score block bubblelibrary matches 9253 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:magma_block",Properties:{}},Time:1}

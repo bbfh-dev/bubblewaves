@@ -1,0 +1,6 @@
+execute if score block bubblelibrary matches 100 run setblock ~ ~ ~ minecraft:stripped_acacia_log[axis=x]
+execute if score block bubblelibrary matches 101 run setblock ~ ~ ~ minecraft:stripped_acacia_log[axis=y]
+execute if score block bubblelibrary matches 102 run setblock ~ ~ ~ minecraft:stripped_acacia_log[axis=z]
+execute if score block bubblelibrary matches 103 run setblock ~ ~ ~ minecraft:stripped_dark_oak_log[axis=x]
+execute if score block bubblelibrary matches 104 run setblock ~ ~ ~ minecraft:stripped_dark_oak_log[axis=y]
+execute if score block bubblelibrary matches 105 run setblock ~ ~ ~ minecraft:stripped_dark_oak_log[axis=z]

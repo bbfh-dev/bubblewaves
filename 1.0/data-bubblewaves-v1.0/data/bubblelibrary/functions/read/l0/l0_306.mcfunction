@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=north,waterlogged=true] run scoreboard players set block bubblelibrary 9592
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=north,waterlogged=false] run scoreboard players set block bubblelibrary 9593
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=south,waterlogged=true] run scoreboard players set block bubblelibrary 9594
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=south,waterlogged=false] run scoreboard players set block bubblelibrary 9595
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=west,waterlogged=true] run scoreboard players set block bubblelibrary 9596
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=west,waterlogged=false] run scoreboard players set block bubblelibrary 9597
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=east,waterlogged=true] run scoreboard players set block bubblelibrary 9598
+execute if block ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=east,waterlogged=false] run scoreboard players set block bubblelibrary 9599
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=north,waterlogged=true] run scoreboard players set block bubblelibrary 9600
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=north,waterlogged=false] run scoreboard players set block bubblelibrary 9601
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=south,waterlogged=true] run scoreboard players set block bubblelibrary 9602
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=south,waterlogged=false] run scoreboard players set block bubblelibrary 9603
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=west,waterlogged=true] run scoreboard players set block bubblelibrary 9604
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=west,waterlogged=false] run scoreboard players set block bubblelibrary 9605
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=east,waterlogged=true] run scoreboard players set block bubblelibrary 9606
+execute if block ~ ~ ~ minecraft:tube_coral_wall_fan[facing=east,waterlogged=false] run scoreboard players set block bubblelibrary 9607

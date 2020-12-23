@@ -1,0 +1,4 @@
+execute if score block bubblelibrary matches 9536 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:fire_coral",Properties:{waterlogged:true}},Time:1}
+execute if score block bubblelibrary matches 9537 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:fire_coral",Properties:{waterlogged:false}},Time:1}
+execute if score block bubblelibrary matches 9538 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:horn_coral",Properties:{waterlogged:true}},Time:1}
+execute if score block bubblelibrary matches 9539 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:horn_coral",Properties:{waterlogged:false}},Time:1}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=north,waterlogged=true] run scoreboard players set block bubblelibrary 15719
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=north,waterlogged=false] run scoreboard players set block bubblelibrary 15720
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=south,waterlogged=true] run scoreboard players set block bubblelibrary 15721
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=south,waterlogged=false] run scoreboard players set block bubblelibrary 15722
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=west,waterlogged=true] run scoreboard players set block bubblelibrary 15723
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=west,waterlogged=false] run scoreboard players set block bubblelibrary 15724
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=east,waterlogged=true] run scoreboard players set block bubblelibrary 15725
+execute if block ~ ~ ~ minecraft:crimson_wall_sign[facing=east,waterlogged=false] run scoreboard players set block bubblelibrary 15726
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=north,waterlogged=true] run scoreboard players set block bubblelibrary 15727
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=north,waterlogged=false] run scoreboard players set block bubblelibrary 15728
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=south,waterlogged=true] run scoreboard players set block bubblelibrary 15729
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=south,waterlogged=false] run scoreboard players set block bubblelibrary 15730
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=west,waterlogged=true] run scoreboard players set block bubblelibrary 15731
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=west,waterlogged=false] run scoreboard players set block bubblelibrary 15732
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=east,waterlogged=true] run scoreboard players set block bubblelibrary 15733
+execute if block ~ ~ ~ minecraft:warped_wall_sign[facing=east,waterlogged=false] run scoreboard players set block bubblelibrary 15734

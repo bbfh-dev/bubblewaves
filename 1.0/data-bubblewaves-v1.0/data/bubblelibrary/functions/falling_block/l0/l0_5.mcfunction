@@ -1,0 +1,3 @@
+execute if score block bubblelibrary matches 11 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:coarse_dirt",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 12 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:podzol",Properties:{snowy:true}},Time:1}
+execute if score block bubblelibrary matches 13 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:podzol",Properties:{snowy:false}},Time:1}

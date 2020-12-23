@@ -1,0 +1,3 @@
+execute if score block bubblelibrary matches 4013 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:glowstone",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 4014 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:nether_portal",Properties:{axis:x}},Time:1}
+execute if score block bubblelibrary matches 4015 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:nether_portal",Properties:{axis:z}},Time:1}

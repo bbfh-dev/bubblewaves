@@ -1,0 +1,6 @@
+execute if score block bubblelibrary matches 124 run setblock ~ ~ ~ minecraft:dark_oak_wood[axis=x]
+execute if score block bubblelibrary matches 125 run setblock ~ ~ ~ minecraft:dark_oak_wood[axis=y]
+execute if score block bubblelibrary matches 126 run setblock ~ ~ ~ minecraft:dark_oak_wood[axis=z]
+execute if score block bubblelibrary matches 127 run setblock ~ ~ ~ minecraft:stripped_oak_wood[axis=x]
+execute if score block bubblelibrary matches 128 run setblock ~ ~ ~ minecraft:stripped_oak_wood[axis=y]
+execute if score block bubblelibrary matches 129 run setblock ~ ~ ~ minecraft:stripped_oak_wood[axis=z]

@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 18 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:jungle_planks",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 19 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:acacia_planks",Properties:{}},Time:1}

@@ -1,0 +1,4 @@
+execute if score block bubblelibrary matches 23 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:spruce_sapling",Properties:{stage:0}},Time:1}
+execute if score block bubblelibrary matches 24 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:spruce_sapling",Properties:{stage:1}},Time:1}
+execute if score block bubblelibrary matches 25 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:birch_sapling",Properties:{stage:0}},Time:1}
+execute if score block bubblelibrary matches 26 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:birch_sapling",Properties:{stage:1}},Time:1}

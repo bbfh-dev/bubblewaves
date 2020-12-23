@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 6 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:andesite",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 7 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:polished_andesite",Properties:{}},Time:1}

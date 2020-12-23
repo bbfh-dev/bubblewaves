@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 3998 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:pumpkin",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 3999 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:netherrack",Properties:{}},Time:1}

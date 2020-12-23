@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bubblewaves:item/hat_of_invisibility"
+},
+"display": {
+    "head": {
+        "scale": [0, 0, 0]
+    }
+}
+}

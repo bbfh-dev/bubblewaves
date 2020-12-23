@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 8217 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:red_sandstone",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 8218 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:chiseled_red_sandstone",Properties:{}},Time:1}

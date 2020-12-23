@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 14987 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:crimson_nylium",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 14988 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:crimson_fungus",Properties:{}},Time:1}

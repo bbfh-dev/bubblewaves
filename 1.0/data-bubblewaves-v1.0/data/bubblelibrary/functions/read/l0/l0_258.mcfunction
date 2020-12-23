@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:pink_shulker_box[facing=north] run scoreboard players set block bubblelibrary 9314
+execute if block ~ ~ ~ minecraft:pink_shulker_box[facing=east] run scoreboard players set block bubblelibrary 9315
+execute if block ~ ~ ~ minecraft:pink_shulker_box[facing=south] run scoreboard players set block bubblelibrary 9316
+execute if block ~ ~ ~ minecraft:pink_shulker_box[facing=west] run scoreboard players set block bubblelibrary 9317
+execute if block ~ ~ ~ minecraft:pink_shulker_box[facing=up] run scoreboard players set block bubblelibrary 9318
+execute if block ~ ~ ~ minecraft:pink_shulker_box[facing=down] run scoreboard players set block bubblelibrary 9319
+execute if block ~ ~ ~ minecraft:gray_shulker_box[facing=north] run scoreboard players set block bubblelibrary 9320
+execute if block ~ ~ ~ minecraft:gray_shulker_box[facing=east] run scoreboard players set block bubblelibrary 9321
+execute if block ~ ~ ~ minecraft:gray_shulker_box[facing=south] run scoreboard players set block bubblelibrary 9322
+execute if block ~ ~ ~ minecraft:gray_shulker_box[facing=west] run scoreboard players set block bubblelibrary 9323
+execute if block ~ ~ ~ minecraft:gray_shulker_box[facing=up] run scoreboard players set block bubblelibrary 9324
+execute if block ~ ~ ~ minecraft:gray_shulker_box[facing=down] run scoreboard players set block bubblelibrary 9325

@@ -1,0 +1,13 @@
+execute if block ~ ~ ~ minecraft:dropper[facing=north,triggered=true] run scoreboard players set block bubblelibrary 6835
+execute if block ~ ~ ~ minecraft:dropper[facing=north,triggered=false] run scoreboard players set block bubblelibrary 6836
+execute if block ~ ~ ~ minecraft:dropper[facing=east,triggered=true] run scoreboard players set block bubblelibrary 6837
+execute if block ~ ~ ~ minecraft:dropper[facing=east,triggered=false] run scoreboard players set block bubblelibrary 6838
+execute if block ~ ~ ~ minecraft:dropper[facing=south,triggered=true] run scoreboard players set block bubblelibrary 6839
+execute if block ~ ~ ~ minecraft:dropper[facing=south,triggered=false] run scoreboard players set block bubblelibrary 6840
+execute if block ~ ~ ~ minecraft:dropper[facing=west,triggered=true] run scoreboard players set block bubblelibrary 6841
+execute if block ~ ~ ~ minecraft:dropper[facing=west,triggered=false] run scoreboard players set block bubblelibrary 6842
+execute if block ~ ~ ~ minecraft:dropper[facing=up,triggered=true] run scoreboard players set block bubblelibrary 6843
+execute if block ~ ~ ~ minecraft:dropper[facing=up,triggered=false] run scoreboard players set block bubblelibrary 6844
+execute if block ~ ~ ~ minecraft:dropper[facing=down,triggered=true] run scoreboard players set block bubblelibrary 6845
+execute if block ~ ~ ~ minecraft:dropper[facing=down,triggered=false] run scoreboard players set block bubblelibrary 6846
+execute if block ~ ~ ~ minecraft:white_terracotta[] run scoreboard players set block bubblelibrary 6847

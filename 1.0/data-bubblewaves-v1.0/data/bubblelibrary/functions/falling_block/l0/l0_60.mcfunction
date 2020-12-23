@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 1413 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:poppy",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 1414 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:blue_orchid",Properties:{}},Time:1}

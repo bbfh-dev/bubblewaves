@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 6328 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:potted_dead_bush",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 6329 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:potted_cactus",Properties:{}},Time:1}

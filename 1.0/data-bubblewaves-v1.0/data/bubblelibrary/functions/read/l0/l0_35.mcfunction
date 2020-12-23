@@ -1,0 +1,13 @@
+execute if block ~ ~ ~ minecraft:dispenser[facing=north,triggered=true] run scoreboard players set block bubblelibrary 234
+execute if block ~ ~ ~ minecraft:dispenser[facing=north,triggered=false] run scoreboard players set block bubblelibrary 235
+execute if block ~ ~ ~ minecraft:dispenser[facing=east,triggered=true] run scoreboard players set block bubblelibrary 236
+execute if block ~ ~ ~ minecraft:dispenser[facing=east,triggered=false] run scoreboard players set block bubblelibrary 237
+execute if block ~ ~ ~ minecraft:dispenser[facing=south,triggered=true] run scoreboard players set block bubblelibrary 238
+execute if block ~ ~ ~ minecraft:dispenser[facing=south,triggered=false] run scoreboard players set block bubblelibrary 239
+execute if block ~ ~ ~ minecraft:dispenser[facing=west,triggered=true] run scoreboard players set block bubblelibrary 240
+execute if block ~ ~ ~ minecraft:dispenser[facing=west,triggered=false] run scoreboard players set block bubblelibrary 241
+execute if block ~ ~ ~ minecraft:dispenser[facing=up,triggered=true] run scoreboard players set block bubblelibrary 242
+execute if block ~ ~ ~ minecraft:dispenser[facing=up,triggered=false] run scoreboard players set block bubblelibrary 243
+execute if block ~ ~ ~ minecraft:dispenser[facing=down,triggered=true] run scoreboard players set block bubblelibrary 244
+execute if block ~ ~ ~ minecraft:dispenser[facing=down,triggered=false] run scoreboard players set block bubblelibrary 245
+execute if block ~ ~ ~ minecraft:sandstone[] run scoreboard players set block bubblelibrary 246

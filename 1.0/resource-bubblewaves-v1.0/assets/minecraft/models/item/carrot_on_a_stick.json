@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+      "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data":1020}, "model":"bubblewaves:item/camera_monitor"},
+        {"predicate": {"custom_model_data":1050}, "model":"bubblewaves:item/hat_of_invisibility"}
+    ]
+}

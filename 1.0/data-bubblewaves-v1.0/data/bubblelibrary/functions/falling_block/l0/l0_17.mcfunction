@@ -1,0 +1,4 @@
+execute if score block bubblelibrary matches 72 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:nether_gold_ore",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 73 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:oak_log",Properties:{axis:x}},Time:1}
+execute if score block bubblelibrary matches 74 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:oak_log",Properties:{axis:y}},Time:1}
+execute if score block bubblelibrary matches 75 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:oak_log",Properties:{axis:z}},Time:1}

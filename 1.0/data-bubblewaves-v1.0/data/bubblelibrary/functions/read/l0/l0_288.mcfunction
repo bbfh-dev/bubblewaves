@@ -1,0 +1,13 @@
+execute if block ~ ~ ~ minecraft:dried_kelp_block[] run scoreboard players set block bubblelibrary 9497
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=0] run scoreboard players set block bubblelibrary 9498
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=1] run scoreboard players set block bubblelibrary 9499
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=2] run scoreboard players set block bubblelibrary 9500
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=0] run scoreboard players set block bubblelibrary 9501
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=1] run scoreboard players set block bubblelibrary 9502
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=2] run scoreboard players set block bubblelibrary 9503
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=0] run scoreboard players set block bubblelibrary 9504
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=1] run scoreboard players set block bubblelibrary 9505
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=2] run scoreboard players set block bubblelibrary 9506
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=0] run scoreboard players set block bubblelibrary 9507
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=1] run scoreboard players set block bubblelibrary 9508
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=2] run scoreboard players set block bubblelibrary 9509

@@ -1,0 +1,13 @@
+execute if block ~ ~ ~ minecraft:fletching_table[] run scoreboard players set block bubblelibrary 14820
+execute if block ~ ~ ~ minecraft:grindstone[face=floor,facing=north] run scoreboard players set block bubblelibrary 14821
+execute if block ~ ~ ~ minecraft:grindstone[face=floor,facing=south] run scoreboard players set block bubblelibrary 14822
+execute if block ~ ~ ~ minecraft:grindstone[face=floor,facing=west] run scoreboard players set block bubblelibrary 14823
+execute if block ~ ~ ~ minecraft:grindstone[face=floor,facing=east] run scoreboard players set block bubblelibrary 14824
+execute if block ~ ~ ~ minecraft:grindstone[face=wall,facing=north] run scoreboard players set block bubblelibrary 14825
+execute if block ~ ~ ~ minecraft:grindstone[face=wall,facing=south] run scoreboard players set block bubblelibrary 14826
+execute if block ~ ~ ~ minecraft:grindstone[face=wall,facing=west] run scoreboard players set block bubblelibrary 14827
+execute if block ~ ~ ~ minecraft:grindstone[face=wall,facing=east] run scoreboard players set block bubblelibrary 14828
+execute if block ~ ~ ~ minecraft:grindstone[face=ceiling,facing=north] run scoreboard players set block bubblelibrary 14829
+execute if block ~ ~ ~ minecraft:grindstone[face=ceiling,facing=south] run scoreboard players set block bubblelibrary 14830
+execute if block ~ ~ ~ minecraft:grindstone[face=ceiling,facing=west] run scoreboard players set block bubblelibrary 14831
+execute if block ~ ~ ~ minecraft:grindstone[face=ceiling,facing=east] run scoreboard players set block bubblelibrary 14832

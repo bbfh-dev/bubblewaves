@@ -1,0 +1,3 @@
+execute if score block bubblelibrary matches 1345 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:seagrass",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 1346 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:tall_seagrass",Properties:{half:upper}},Time:1}
+execute if score block bubblelibrary matches 1347 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:tall_seagrass",Properties:{half:lower}},Time:1}

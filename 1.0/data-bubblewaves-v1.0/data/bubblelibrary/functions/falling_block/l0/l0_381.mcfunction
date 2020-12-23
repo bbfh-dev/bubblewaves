@@ -1,0 +1,1 @@
+execute if score block bubblelibrary matches 17103 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:quartz_bricks",Properties:{}},Time:1}

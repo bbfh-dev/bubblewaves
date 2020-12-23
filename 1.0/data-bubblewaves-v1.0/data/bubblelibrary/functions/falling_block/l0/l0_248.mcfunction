@@ -1,0 +1,5 @@
+execute if score block bubblelibrary matches 9218 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:end_stone_bricks",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 9219 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:beetroots",Properties:{age:0}},Time:1}
+execute if score block bubblelibrary matches 9220 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:beetroots",Properties:{age:1}},Time:1}
+execute if score block bubblelibrary matches 9221 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:beetroots",Properties:{age:2}},Time:1}
+execute if score block bubblelibrary matches 9222 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:beetroots",Properties:{age:3}},Time:1}

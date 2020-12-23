@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:polished_diorite_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 10807
+execute if block ~ ~ ~ minecraft:polished_diorite_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 10808
+execute if block ~ ~ ~ minecraft:polished_diorite_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 10809
+execute if block ~ ~ ~ minecraft:polished_diorite_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 10810
+execute if block ~ ~ ~ minecraft:polished_diorite_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 10811
+execute if block ~ ~ ~ minecraft:polished_diorite_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 10812
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 10813
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 10814
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 10815
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 10816
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 10817
+execute if block ~ ~ ~ minecraft:mossy_cobblestone_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 10818

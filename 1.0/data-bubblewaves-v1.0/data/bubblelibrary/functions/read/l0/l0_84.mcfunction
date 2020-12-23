@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=north,waterlogged=true] run scoreboard players set block bubblelibrary 3759
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=north,waterlogged=false] run scoreboard players set block bubblelibrary 3760
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=south,waterlogged=true] run scoreboard players set block bubblelibrary 3761
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=south,waterlogged=false] run scoreboard players set block bubblelibrary 3762
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=west,waterlogged=true] run scoreboard players set block bubblelibrary 3763
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=west,waterlogged=false] run scoreboard players set block bubblelibrary 3764
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=east,waterlogged=true] run scoreboard players set block bubblelibrary 3765
+execute if block ~ ~ ~ minecraft:acacia_wall_sign[facing=east,waterlogged=false] run scoreboard players set block bubblelibrary 3766
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=north,waterlogged=true] run scoreboard players set block bubblelibrary 3767
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=north,waterlogged=false] run scoreboard players set block bubblelibrary 3768
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=south,waterlogged=true] run scoreboard players set block bubblelibrary 3769
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=south,waterlogged=false] run scoreboard players set block bubblelibrary 3770
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=west,waterlogged=true] run scoreboard players set block bubblelibrary 3771
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=west,waterlogged=false] run scoreboard players set block bubblelibrary 3772
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=east,waterlogged=true] run scoreboard players set block bubblelibrary 3773
+execute if block ~ ~ ~ minecraft:jungle_wall_sign[facing=east,waterlogged=false] run scoreboard players set block bubblelibrary 3774

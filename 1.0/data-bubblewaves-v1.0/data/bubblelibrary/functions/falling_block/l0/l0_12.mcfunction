@@ -1,0 +1,3 @@
+execute if score block bubblelibrary matches 31 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:dark_oak_sapling",Properties:{stage:0}},Time:1}
+execute if score block bubblelibrary matches 32 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:dark_oak_sapling",Properties:{stage:1}},Time:1}
+execute if score block bubblelibrary matches 33 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:bedrock",Properties:{}},Time:1}

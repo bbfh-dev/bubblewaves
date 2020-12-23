@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 1952 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:soul_fire",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 1953 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:spawner",Properties:{}},Time:1}

@@ -1,0 +1,8 @@
+execute if score block bubblelibrary matches 9398 run setblock ~ ~ ~ minecraft:pink_glazed_terracotta[facing=north]
+execute if score block bubblelibrary matches 9399 run setblock ~ ~ ~ minecraft:pink_glazed_terracotta[facing=south]
+execute if score block bubblelibrary matches 9400 run setblock ~ ~ ~ minecraft:pink_glazed_terracotta[facing=west]
+execute if score block bubblelibrary matches 9401 run setblock ~ ~ ~ minecraft:pink_glazed_terracotta[facing=east]
+execute if score block bubblelibrary matches 9402 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=north]
+execute if score block bubblelibrary matches 9403 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=south]
+execute if score block bubblelibrary matches 9404 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=west]
+execute if score block bubblelibrary matches 9405 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=east]

@@ -1,0 +1,6 @@
+{
+	"parent": "bubblewaves:block/table/parent",
+	"textures": {
+		"material": "block/spruce_planks"
+	}
+}

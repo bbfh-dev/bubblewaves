@@ -1,0 +1,4 @@
+execute if score block bubblelibrary matches 14967 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:stripped_warped_hyphae",Properties:{axis:x}},Time:1}
+execute if score block bubblelibrary matches 14968 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:stripped_warped_hyphae",Properties:{axis:y}},Time:1}
+execute if score block bubblelibrary matches 14969 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:stripped_warped_hyphae",Properties:{axis:z}},Time:1}
+execute if score block bubblelibrary matches 14970 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:warped_nylium",Properties:{}},Time:1}

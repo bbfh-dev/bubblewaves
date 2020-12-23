@@ -1,0 +1,3 @@
+execute if score block bubblelibrary matches 9649 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:conduit",Properties:{waterlogged:true}},Time:1}
+execute if score block bubblelibrary matches 9650 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:conduit",Properties:{waterlogged:false}},Time:1}
+execute if score block bubblelibrary matches 9651 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:bamboo_sapling",Properties:{}},Time:1}

@@ -1,0 +1,4 @@
+execute if score block bubblelibrary matches 14886 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:lantern",Properties:{hanging:true}},Time:1}
+execute if score block bubblelibrary matches 14887 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:lantern",Properties:{hanging:false}},Time:1}
+execute if score block bubblelibrary matches 14888 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:soul_lantern",Properties:{hanging:true}},Time:1}
+execute if score block bubblelibrary matches 14889 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:soul_lantern",Properties:{hanging:false}},Time:1}

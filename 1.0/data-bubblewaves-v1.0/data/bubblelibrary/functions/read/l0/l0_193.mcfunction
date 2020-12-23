@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:prismarine_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 7844
+execute if block ~ ~ ~ minecraft:prismarine_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 7845
+execute if block ~ ~ ~ minecraft:prismarine_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 7846
+execute if block ~ ~ ~ minecraft:prismarine_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 7847
+execute if block ~ ~ ~ minecraft:prismarine_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 7848
+execute if block ~ ~ ~ minecraft:prismarine_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 7849
+execute if block ~ ~ ~ minecraft:prismarine_brick_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 7850
+execute if block ~ ~ ~ minecraft:prismarine_brick_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 7851
+execute if block ~ ~ ~ minecraft:prismarine_brick_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 7852
+execute if block ~ ~ ~ minecraft:prismarine_brick_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 7853
+execute if block ~ ~ ~ minecraft:prismarine_brick_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 7854
+execute if block ~ ~ ~ minecraft:prismarine_brick_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 7855

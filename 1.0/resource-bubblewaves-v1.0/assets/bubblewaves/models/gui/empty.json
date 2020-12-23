@@ -1,0 +1,44 @@
+{
+	"textures": {
+		"0": "bubblewaves:gui/empty",
+		"particle": "bubblewaves:gui/empty"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 0, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [72, 0, 0],
+			"rotation": [90, 0, 0],
+			"scale": [3.4, 1.125, 1.125]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 4503 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:infested_cracked_stone_bricks",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 4504 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:infested_chiseled_stone_bricks",Properties:{}},Time:1}

@@ -1,0 +1,2 @@
+tellraw @p [{"text":"To open press ","color":"#90db4e"},{"text":"[HERE]","underlined":true,"color":"#d5d8d2","clickEvent":{"action":"suggest_command","value":"/trigger btrig.pincode set "}},{"text":" and enter password","color":"#90db4e"}]
+tag @s add validating

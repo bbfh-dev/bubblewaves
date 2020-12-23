@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:red_sandstone_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 8396
+execute if block ~ ~ ~ minecraft:red_sandstone_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 8397
+execute if block ~ ~ ~ minecraft:red_sandstone_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 8398
+execute if block ~ ~ ~ minecraft:red_sandstone_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 8399
+execute if block ~ ~ ~ minecraft:red_sandstone_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 8400
+execute if block ~ ~ ~ minecraft:red_sandstone_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 8401
+execute if block ~ ~ ~ minecraft:cut_red_sandstone_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 8402
+execute if block ~ ~ ~ minecraft:cut_red_sandstone_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 8403
+execute if block ~ ~ ~ minecraft:cut_red_sandstone_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 8404
+execute if block ~ ~ ~ minecraft:cut_red_sandstone_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 8405
+execute if block ~ ~ ~ minecraft:cut_red_sandstone_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 8406
+execute if block ~ ~ ~ minecraft:cut_red_sandstone_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 8407

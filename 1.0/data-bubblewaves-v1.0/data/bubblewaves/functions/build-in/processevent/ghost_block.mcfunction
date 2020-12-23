@@ -1,0 +1,2 @@
+execute unless entity @a[distance=..6, nbt={SelectedItem:{tag:{CustomModelData:1040}}}] run setblock ~ ~ ~ structure_void
+execute if entity @a[distance=..6, nbt={SelectedItem:{tag:{CustomModelData:1040}}}] run setblock ~ ~ ~ glass

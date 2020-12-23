@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 15836 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:potted_crimson_roots",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 15837 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:potted_warped_roots",Properties:{}},Time:1}

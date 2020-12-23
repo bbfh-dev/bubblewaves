@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:crimson_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 15047
+execute if block ~ ~ ~ minecraft:crimson_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 15048
+execute if block ~ ~ ~ minecraft:crimson_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 15049
+execute if block ~ ~ ~ minecraft:crimson_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 15050
+execute if block ~ ~ ~ minecraft:crimson_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 15051
+execute if block ~ ~ ~ minecraft:crimson_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 15052
+execute if block ~ ~ ~ minecraft:warped_slab[type=top,waterlogged=true] run scoreboard players set block bubblelibrary 15053
+execute if block ~ ~ ~ minecraft:warped_slab[type=top,waterlogged=false] run scoreboard players set block bubblelibrary 15054
+execute if block ~ ~ ~ minecraft:warped_slab[type=bottom,waterlogged=true] run scoreboard players set block bubblelibrary 15055
+execute if block ~ ~ ~ minecraft:warped_slab[type=bottom,waterlogged=false] run scoreboard players set block bubblelibrary 15056
+execute if block ~ ~ ~ minecraft:warped_slab[type=double,waterlogged=true] run scoreboard players set block bubblelibrary 15057
+execute if block ~ ~ ~ minecraft:warped_slab[type=double,waterlogged=false] run scoreboard players set block bubblelibrary 15058

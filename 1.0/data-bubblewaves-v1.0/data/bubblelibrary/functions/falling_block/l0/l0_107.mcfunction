@@ -1,0 +1,2 @@
+execute if score block bubblelibrary matches 4103 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:light_gray_stained_glass",Properties:{}},Time:1}
+execute if score block bubblelibrary matches 4104 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:cyan_stained_glass",Properties:{}},Time:1}

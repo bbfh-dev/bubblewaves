@@ -1,0 +1,4 @@
+execute if score block bubblelibrary matches 3885 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:redstone_ore",Properties:{lit:true}},Time:1}
+execute if score block bubblelibrary matches 3886 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:redstone_ore",Properties:{lit:false}},Time:1}
+execute if score block bubblelibrary matches 3887 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:redstone_torch",Properties:{lit:true}},Time:1}
+execute if score block bubblelibrary matches 3888 run summon falling_block ~ ~ ~ {Tags:["bubbleblock", "bubbleproccess", "ghost_block", "preparing"], NoGravity:1b, BlockState:{Name:"minecraft:redstone_torch",Properties:{lit:false}},Time:1}
